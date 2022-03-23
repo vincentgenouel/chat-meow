@@ -1,0 +1,20 @@
+# Meow
+
+## Installation
+
+- Install dependencies :
+
+cd .\meow
+npm install
+
+## Configuration
+
+- Copy the `.env.example` to make a `.env`
+
+PORT=8080
+DB_URI=
+SECRET=
+
+## Run the server :
+
+npm run dev
